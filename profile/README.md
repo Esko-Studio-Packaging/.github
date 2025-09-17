@@ -23,7 +23,7 @@ The software is widely used in the packaging industry for its ability to reduce 
 Esko Studio is trusted by leading brands and designers worldwide for its reliability, innovation, and continuous support for the latest trends in packaging and printing technology.
 
 <p align="center">
-  <img src="https://esko-studio-packaging.github.io/.github/" alt="Esko Studio Visualization Example"/>
+  <img src="https://www.esko.com/static/uploads/2024/01/audience_image_11.webp" alt="Esko Studio Visualization Example"/>
 </p>
 
 ---
